@@ -1,0 +1,6 @@
+BLE
+LoRa
+Zigbee
+WiFi
+
+Ethernet
